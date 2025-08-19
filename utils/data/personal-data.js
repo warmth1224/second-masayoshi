@@ -3,9 +3,9 @@ export const personalData = {
   profile: '/profile.png',
   designation: "Senior Full Stack Engineer Specializing in Solutions for FinTech, HealthTech, EdTech, Digital Publishing, and Online Retail",
   description: "Hi! I'm Masayoshi Yamada — a full stack engineer who builds fast backends, clean UIs, and sleeps soundly because of test coverage. I speak JavaScript fluently, automate the boring stuff, and ship code that scales (and rarely cries in prod). 9+ years in FinTech, SaaS, and keeping CI green. Let’s build something solid.",
-  email: 'yamadamasayoshi7@gmail.com',
+  email: 'masayoshi.yamada7@gmail.com',
   phone: '+14074369174',
-  address: 'Houston, TX, USA',
+  address: 'Portland, OR, USA',
   github: 'https://github.com/caraX0',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-7bba82372/',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1ihxcSx6Gt-c_xqDwnTPKj9knUwTNMKI6/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1Fe-Xt3Si5Q-CVet3pMrqS-6UotG09F4y/view?usp=sharing"
 }
